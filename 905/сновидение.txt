@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Моя страница с картинками</title>
+</head>
+<body>
+
+    <h1>привет всем</h1>
+    <p>40.15.62546.2727.36</p>
+
+   
+    <img src="D:\905\жопа.jpg">
+
+    
+
+</body>
+</html>
